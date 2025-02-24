@@ -9,7 +9,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://gemini.vercel.ai"),
   title: "NFTScan Chatbot",
-  description: "Next.js chatbot template using the AI SDK and Gemini.",
+  description: "Next.js Chatbot template using the AI SDK and Gemini.",
 };
 
 export default async function RootLayout({
